@@ -29,7 +29,7 @@
         try {
             urls = urls.concat(searchPerformanceEntries(iframe.contentWindow));
         } catch {
-            // cross-origin iframe, can't access
+            console.log("Unable to access iframe — try changing the console context to the Kaltura iframe and re-running the script.");
         }
     });
 
