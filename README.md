@@ -13,7 +13,7 @@ A browser console script that extracts direct download URLs for Kaltura-hosted v
 2. Play the video (at least briefly) so the browser loads the HLS stream URL.
 3. Open DevTools (`F12` or `Cmd+Shift+I` on Mac).
 4. Go to the **Console** tab.
-5. Paste the contents of `download.js` and press **Enter**.
+5. Paste the contents of [`download.js`](download.js) and press **Enter**.
 
 If a video URL is found, it opens automatically in a new tab. If multiple URLs are found, additional URLs are printed in the console.
 
