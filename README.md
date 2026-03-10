@@ -1,6 +1,11 @@
 # Canvas Kaltura Video Downloader
 
-A browser console script that extracts direct download URLs for Kaltura-hosted videos on Canvas LMS.
+![License](https://img.shields.io/github/license/twangodev/canvas-kaltura-dl?logo=opensourceinitiative&logoColor=white)
+![Platform: Browser Console](https://img.shields.io/badge/platform-browser%20console-lightgrey?logo=googlechrome&logoColor=white)
+![Kaltura: Hosted](https://img.shields.io/badge/kaltura-hosted%20(cfvod)-orange?logo=kaltura&logoColor=white)
+![No Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen?logo=javascript&logoColor=white)
+
+A browser console script that extracts direct download URLs for Kaltura-hosted videos. Works on Canvas LMS and any platform using hosted Kaltura (`cfvod.kaltura.com`).
 
 ## Usage
 
