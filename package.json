@@ -1,0 +1,25 @@
+{
+  "name": "canvas-kaltura-dl",
+  "version": "1.0.0",
+  "description": "Browser console script to extract direct MP4 download URLs from Kaltura-hosted videos on Canvas LMS and other platforms",
+  "main": "download.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twangodev/canvas-kaltura-dl.git"
+  },
+  "keywords": [],
+  "author": "James Ding <git@twango.dev>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/twangodev/canvas-kaltura-dl/issues"
+  },
+  "homepage": "https://github.com/twangodev/canvas-kaltura-dl#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
