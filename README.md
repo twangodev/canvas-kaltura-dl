@@ -7,6 +7,13 @@
 
 A browser console script that extracts direct download URLs for Kaltura-hosted videos. Works on Canvas LMS and any platform using hosted Kaltura (`cfvod.kaltura.com`).
 
+> [!WARNING]
+> This tool is provided for **educational and personal use only**. It is intended to help students download lecture videos they already have authorized access to for offline viewing.
+>
+> **You are solely responsible for how you use this tool.** Downloading, redistributing, or using content in violation of your institution's terms of service, Kaltura's terms of service, or applicable copyright law is strictly prohibited. The author(s) of this project assume no liability for misuse.
+>
+> By using this software, you agree that you will only download content you are authorized to access and will comply with all applicable laws and institutional policies.
+
 ## Usage
 
 1. Navigate to the Canvas page containing the Kaltura video.
